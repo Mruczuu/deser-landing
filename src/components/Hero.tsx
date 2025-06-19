@@ -20,7 +20,11 @@ const Hero = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-br from-[#00BFFF]/20 to-transparent opacity-50 rounded-2xl" />
               <Image
+<<<<<<< HEAD
                 src="/images/profilowe.PNG"
+=======
+                src="/images/Ja.PNG"
+>>>>>>> 37d0ba5bc79d4fb05cff775292100f226aa2b38b
                 alt="Kacper Mruk"
                 width={500}
                 height={600}
