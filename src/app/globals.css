@@ -146,3 +146,13 @@ h6 {
   background: rgba(0, 191, 255, 0.3);
   color: white;
 }
+
+/* Hide scrollbar for carousel */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
