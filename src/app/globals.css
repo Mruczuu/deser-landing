@@ -156,3 +156,23 @@ h6 {
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
 }
+
+/* Snowfall animation - GPU accelerated */
+@keyframes snowfall {
+  0% {
+    transform: translate3d(0, -10px, 0);
+  }
+  100% {
+    transform: translate3d(0, 110vh, 0);
+  }
+}
+
+.snowflake {
+  position: absolute;
+  top: -10px;
+  background: white;
+  border-radius: 50%;
+  animation: snowfall linear infinite;
+  will-change: transform;
+  backface-visibility: hidden;
+}
