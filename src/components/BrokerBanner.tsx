@@ -39,29 +39,29 @@ const BrokerBanner = () => {
                   <div className="text-xs text-gray-400 mb-2 uppercase tracking-wide">Kod promocyjny</div>
                   <div 
                     onClick={() => {
-                      navigator.clipboard.writeText('CE3HlGvG');
+                      navigator.clipboard.writeText('El2s6YoK');
                       // Możesz dodać toast notification tutaj
                     }}
                     className="text-2xl font-bold text-[#33C3FF] font-mono tracking-wider cursor-pointer hover:text-[#33C3FF]/80 transition-colors select-all"
                   >
-                    CE3HlGvG
+                    El2s6YoK
                   </div>
                 </div>
                 <div className="border-t border-[#33C3FF]/20 pt-4">
                   <div className="text-xs text-gray-400 mb-2 uppercase tracking-wide">Link do rejestracji</div>
                   <a 
-                    href="https://vigco.co/la-com/CE3HlGvG"
+                    href="https://vigco.co/la-com/El2s6YoK"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-sm text-[#33C3FF] break-all hover:text-[#33C3FF]/80 hover:underline transition-colors inline-block"
                   >
-                    https://vigco.co/la-com/CE3HlGvG
+                    https://vigco.co/la-com/El2s6YoK
                   </a>
                 </div>
               </div>
               <div className="flex flex-col sm:flex-row gap-4 mt-2">
                 <motion.a
-                  href="https://vigco.co/la-com/CE3HlGvG"
+                  href="https://vigco.co/la-com/El2s6YoK"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05, y: -2 }}

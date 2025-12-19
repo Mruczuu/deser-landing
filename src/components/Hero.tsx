@@ -59,7 +59,7 @@ const Hero = () => {
                   TAKE PROFIT
                 </span>
                 <span className="block text-white">
-                  GRUBYFX
+                  ZŁOTYSNAJPER
                 </span>
               </h1>
               
@@ -198,7 +198,7 @@ const Hero = () => {
             >
               <p className="text-sm text-gray-300 leading-relaxed">
                 <span className="text-yellow-400 font-bold">⚠️ Zarejestruj się z kodem promocyjnym</span>{' '}
-                <span className="bg-[#33C3FF]/20 text-[#33C3FF] px-2 py-1 rounded font-mono font-bold">"GRUBYFX"</span>{' '}
+                <span className="bg-[#33C3FF]/20 text-[#33C3FF] px-2 py-1 rounded font-mono font-bold">"PREMIUM"</span>{' '}
                 <span className="text-gray-400">aby otrzymać bezpłatny dostęp —</span>{' '}
                 <span className="text-red-400 font-semibold">w przeciwnym przypadku oferta będzie nieaktualna.</span>
               </p>

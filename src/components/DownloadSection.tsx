@@ -83,7 +83,7 @@ const DownloadSection = () => {
             <p className="text-sm text-gray-300 leading-relaxed mb-4">
               <span className="text-yellow-400 font-bold">⚠️ WAŻNE:</span>{' '}
               Zarejestruj się z kodem promocyjnym{' '}
-              <span className="bg-[#33C3FF]/20 text-[#33C3FF] px-2 py-1 rounded font-mono font-bold">"GRUBYFX"</span>{' '}
+              <span className="bg-[#33C3FF]/20 text-[#33C3FF] px-2 py-1 rounded font-mono font-bold">"PREMIUM"</span>{' '}
               aby otrzymać bezpłatny dostęp —{' '}
               <span className="text-red-400 font-semibold">w przeciwnym przypadku oferta będzie nieaktualna.</span>
             </p>

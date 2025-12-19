@@ -38,7 +38,7 @@ const Navigation = () => {
           <div className="flex items-center">
             <a href="#" className="flex flex-col leading-tight items-start">
               <span className="text-2xl font-bold text-[#33C3FF] tracking-widest uppercase">Take Profit</span>
-              <span className="text-base font-extrabold text-white tracking-[0.25em] uppercase">GRUBYFX</span>
+              <span className="text-base font-extrabold text-white tracking-[0.25em] uppercase">ZŁOTYSNAJPER</span>
             </a>
           </div>
           <div className="hidden md:flex items-center space-x-6">
