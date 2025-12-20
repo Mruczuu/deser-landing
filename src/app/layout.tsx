@@ -7,14 +7,14 @@ import Snowfall from "@/components/Snowfall";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://takeprofittraders.pl"),
+  metadataBase: new URL("https://zlotysnajper.com"),
   title: "Take Profit Traders App - Pierwsza bezpłatna aplikacja dla traderów w Polsce",
   description: "Wszystkie najważniejsze narzędzia tradera w jednym miejscu. Kalendarz makroekonomiczny, sygnały, Trading Journal, FedWatch i więcej. Całkowicie bezpłatnie.",
   openGraph: {
     title: "Take Profit Traders App - Pierwsza bezpłatna aplikacja dla traderów w Polsce",
     description: "Wszystkie najważniejsze narzędzia tradera w jednym miejscu. Kalendarz makroekonomiczny, sygnały, Trading Journal, FedWatch i więcej. Całkowicie bezpłatnie.",
-    url: "https://takeprofittraders.pl",
-    siteName: "Take Profit Traders",
+    url: "https://zlotysnajper.com",
+    siteName: "Złoty Snajper",
     images: [
       {
         url: "/og-image.png",
