@@ -51,7 +51,7 @@ const Navigation = () => {
                 {item}
               </a>
             ))}
-            <a href="https://t.me/GRUBYFXADMINISTRACJA" target="_blank" rel="noopener noreferrer" className="bg-[#33C3FF] text-[#090D1F] px-6 py-3 rounded-lg text-sm font-semibold hover:bg-[#33C3FF]/90 transition-all transform hover:-translate-y-0.5 hover:shadow-xl shadow-md">
+            <a href="https://t.me/Zloty_Snajper" target="_blank" rel="noopener noreferrer" className="bg-[#33C3FF] text-[#090D1F] px-6 py-3 rounded-lg text-sm font-semibold hover:bg-[#33C3FF]/90 transition-all transform hover:-translate-y-0.5 hover:shadow-xl shadow-md">
               Dołącz za darmo!
             </a>
           </div>

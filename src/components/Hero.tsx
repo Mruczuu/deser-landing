@@ -90,7 +90,7 @@ const Hero = () => {
               </p>
               
               <motion.a
-                href="https://t.me/GRUBYFXADMINISTRACJA"
+                href="https://t.me/Zloty_Snajper"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.03 }}
@@ -116,7 +116,7 @@ const Hero = () => {
 
               {/* Trust badges */}
               <motion.a
-                href="https://t.me/GRUBYFXADMINISTRACJA"
+                href="https://t.me/Zloty_Snajper"
                 target="_blank"
                 rel="noopener noreferrer"
                 initial={{ opacity: 0, y: 20 }}

@@ -73,7 +73,7 @@ const BrokerBanner = () => {
                   <div className="absolute inset-0 bg-gradient-to-r from-[#00A8E8] to-[#33C3FF] opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 </motion.a>
                 <motion.a
-                  href="https://t.me/GRUBYFXADMINISTRACJA"
+                  href="https://t.me/Zloty_Snajper"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05, y: -2 }}

@@ -88,7 +88,7 @@ const Testimonials = () => {
           className="text-center mt-16"
         >
           <motion.a
-            href="https://t.me/GRUBYFXADMINISTRACJA"
+            href="https://t.me/Zloty_Snajper"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.03 }}

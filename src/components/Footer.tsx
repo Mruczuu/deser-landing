@@ -51,7 +51,7 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="https://t.me/GRUBYFXADMINISTRACJA" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#33C3FF] transition-colors">
+                <a href="https://t.me/Zloty_Snajper" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#33C3FF] transition-colors">
                   Skontaktuj się
                 </a>
               </li>
